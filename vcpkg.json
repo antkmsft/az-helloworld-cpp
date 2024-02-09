@@ -1,0 +1,8 @@
+{
+  "name": "az-helloworld-cpp",
+  "version": "1.0.0",
+  "dependencies": [
+    "azure-storage-blobs-cpp",
+    "azure-identity-cpp"
+  ]
+}
